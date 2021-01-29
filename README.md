@@ -4,4 +4,4 @@
 - 📫 ZyrexFX#0101
 - ⚡ Fun fact: I'm not fun
 
-![Anime](https://imgur.com/KEfMEAu)
+![Anime](https://i.imgur.com/KEfMEAu.gif)
