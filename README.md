@@ -7,6 +7,6 @@
 - 🌐 Also visit the web for command list [here](https://zyrexfx.github.io/MeguWeb/)
 - - - 
 ![Anime](https://i.imgur.com/KEfMEAu.gif) 
-- - -
+
 
 ![Discord](https://discord.c99.nl/widget/theme-2/373404212748484608.png)
