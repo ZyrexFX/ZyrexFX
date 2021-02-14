@@ -10,6 +10,7 @@
 <hr>
 <p>
     <img src="https://i.imgur.com/KEfMEAu.gif"></img>
+    <br>
     <img src="https://discord.c99.nl/widget/theme-2/373404212748484608.png">
     </img>
 </p>
