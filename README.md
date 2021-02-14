@@ -1,6 +1,6 @@
 <h3>Hello there fellow weebs, sup 👋</h3>
 
-- 💬 Ask me about [Anime](https://myanimelist.net/profile/ZyrexFX){:target="_blank"} related stuff :D
+- 💬 Ask me about [Anime](https://myanimelist.net/profile/ZyrexFX) related stuff :D
 - 📫 ZyrexFX#0101
 - ⚡ Fun fact: I'm not fun
 - 🤖 Discord BOT invite link [here](https://discord.com/oauth2/authorize?client_id=753589173486616749&scope=bot&permissions=36891718)
