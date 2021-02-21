@@ -8,6 +8,17 @@
     <li>🌐 Also visit the web for command list<a href="https://zyrexfx.github.io/MeguWeb/" target="_blank"> here</a> </li>
 </ul>
 
+<hr>
+
+<p>
+    <img src="https://i.imgur.com/KEfMEAu.gif"></img>
+    <br>
+    <img src="https://discord.c99.nl/widget/theme-2/373404212748484608.png">
+    </img>
+</p>
+
+<hr>
+
 <h3>Social</h3>
 <p>
 <a href="https://github.com/ZyrexFX" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white&style=flat" /></a>
@@ -28,12 +39,3 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&style=plastic"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007396?style=flat-square&logo=Bootstrap&logoColor=white&style=plastic"/></li>
 </ul>
-
-<hr>
-
-<p>
-    <img src="https://i.imgur.com/KEfMEAu.gif"></img>
-    <br>
-    <img src="https://discord.c99.nl/widget/theme-2/373404212748484608.png">
-    </img>
-</p>
