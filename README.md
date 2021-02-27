@@ -19,16 +19,18 @@
 
 <hr>
 
-<h3>Social</h3>
+<details>
+    <summary>Social</summary>
 <p>
 <a href="https://github.com/ZyrexFX" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white&style=flat" /></a>
 <a href="https://discord.gg/wZzCmv4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat" /></a>
 <a href="https://www.instagram.com/zyrexfx_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat" /></a>
 <a href="https://www.youtube.com/c/ZyrexFX" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-YouTube-f10707?style=for-the-badge&logo=youtube&logoColor=white&style=flat" /></a>
 </p>
+</details>
 
-<h3>Tools</h3>
-
+<details>
+    <summary>Tools</summary>
 <ul>
   <li><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&style=plastic"/>
   <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&style=plastic"/>
