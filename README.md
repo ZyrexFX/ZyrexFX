@@ -45,8 +45,8 @@ Hello I'm [**Tazky (he/him)**](https://tazky.site), an undergraduate students cu
     <summary>⚡ Github Stats</summary>
     <br>
 <p align="center">
-<img height="200" src="https://forked-github-readme-stats-git-main-zyrexfxs-projects.vercel.app/api?username=ZyrexFX&theme=tokyonight&count_private=true&hide_border=true&line_height=20&include_all_commits=true"></img>
-<img height="200" src="https://forked-github-readme-stats-git-main-zyrexfxs-projects.vercel.app/api/top-langs/?username=ZyrexFX&layout=compact&theme=tokyonight&count_private=true&hide_border=true"></img>
+<img height="150" src="https://forked-github-readme-stats-git-main-zyrexfxs-projects.vercel.app/api?username=ZyrexFX&theme=tokyonight&count_private=true&hide_border=true&line_height=20&include_all_commits=true"></img>
+<img height="150" src="https://forked-github-readme-stats-git-main-zyrexfxs-projects.vercel.app/api/top-langs/?username=ZyrexFX&layout=compact&theme=tokyonight&count_private=true&hide_border=true"></img>
 
 </p>
 </details>
