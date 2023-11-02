@@ -1,35 +1,51 @@
-<h3>Hello there fellow weebs, sup 👋</h3>
+<h2 align="center"> Hello There Filthy Weebs 👋 </h2>
+<!-- <p>Hello I'm Tazky, an undergraduate students currently majoring in Informatics Engineering. I'm interested in front-end related projects and design.</p> -->
+<img alt="GIF" align="right" width="150" style="border: 10px" src="https://i.imgur.com/KEfMEAu.gif"></img>
 
-<hr>
+Hello I'm [**Tazky (he/him)**](https://tazky.site), an undergraduate students currently majoring in Informatics Engineering. I'm interested in front-end related projects and design.
 
-<p>
-    <img src="https://i.imgur.com/KEfMEAu.gif"></img>
-    <br>
-    <img src="https://discord.c99.nl/widget/theme-2/373404212748484608.png">
-    </img>
+<br>
+<br>
+<br>
+<!-- Learning -->
+<h2></h2>
+<h3 align="center">Currently Learning</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,mongodb,python,mysql&theme=dark"></img>
 </p>
 
-<hr>
+<!-- Apps and Tools -->
+<h3 align="center">Apps & Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ps,vscode,discord,bots&theme=dark"></img>
+</p>
+<br>
 
+<!-- Discord Section -->
+<h2 align="center">Discord Activity</h2>
+<p align="center">
+<a href="https://discord.com/users/373404212748484608"><img src="https://lanyard.cnrad.dev/api/373404212748484608">
+</a>
+</p>
+
+<!-- Coding Section -->
 <details>
-    <summary>Social</summary>
-<p>
-<a href="https://github.com/ZyrexFX" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white&style=flat" /></a>
-<a href="https://discord.gg/wZzCmv4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat" /></a>
-<a href="https://www.youtube.com/c/ZyrexFX" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-YouTube-f10707?style=for-the-badge&logo=youtube&logoColor=white&style=flat" /></a>
+    <summary>⚡ Coding Activity</summary>
+    <br>
+<p align="center">
+<a>
+    <img width="600" src="https://wakatime.com/share/@ZyrexFX/eeb811ad-e2cd-497f-8b09-8b6934a49e56.svg" style="border-radius: 5%"></img>
+</a>
 </p>
 </details>
 
+<!-- Github Stats -->
 <details>
-    <summary>Tools</summary>
-<ul>
-  <li><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&style=plastic"/>
-  <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&style=plastic"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=plastic"/>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&style=plastic"/></li>
-  <li><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&style=plastic"/>
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&style=plastic"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1c40f?style=flat-square&logo=Javascript&logoColor=white&style=plastic"/>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&style=plastic"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&style=plastic"/></li>
-</ul>
+    <summary>⚡ Github Stats</summary>
+    <br>
+<p align="center">
+<img height="200" src="https://forked-github-readme-stats-git-main-zyrexfxs-projects.vercel.app/api?username=ZyrexFX&theme=tokyonight&count_private=true&hide_border=true&line_height=20&include_all_commits=true"></img>
+<img height="200" src="https://forked-github-readme-stats-git-main-zyrexfxs-projects.vercel.app/api/top-langs/?username=ZyrexFX&layout=compact&theme=tokyonight&count_private=true&hide_border=true"></img>
+
+</p>
+</details>
