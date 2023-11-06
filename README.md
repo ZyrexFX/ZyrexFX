@@ -2,7 +2,7 @@
 <!-- <p>Hello I'm Tazky, an undergraduate students currently majoring in Informatics Engineering. I'm interested in front-end related projects and design.</p> -->
 <img alt="GIF" align="right" width="150" style="border: 10px" src="https://i.imgur.com/KEfMEAu.gif"></img>
 
-Hello I'm [**Tazky (he/him)**](https://tazky.site), an undergraduate students currently majoring in **Informatics Engineering**. I'm interested in front-end related projects and design.
+Hello I'm [**Tazky (he/him)**](https://tazky.site), an undergraduate student currently majoring in **Informatics Engineering**. I'm interested in front-end related projects and design.
 
 <br>
 <br>
